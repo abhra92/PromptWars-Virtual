@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+coverage
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+playwright-report
+test-results
+.agents
+.claude
+.opencode
+brag-output
+skills-lock.json
